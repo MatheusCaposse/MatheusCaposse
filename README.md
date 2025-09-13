@@ -7,6 +7,8 @@
   </a>
 </div>
 
+ ## Linguagens 💻
+
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +18,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
+  ## Redes Sociais 📱
+
  
 <div> 
   <a href="https://www.linkedin.com/in/matheus-machado-caposse-14ab94333" target="_blank">
