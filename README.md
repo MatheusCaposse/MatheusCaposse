@@ -2,13 +2,14 @@
 
 <div>
   <a href="https://beacons.ai/MatheusCaposse"></a>
-  <p>Sou Engenheiro de Software, com atuação principal no desenvolvimento back-end, focado na criação de soluções bem estruturadas, utilizando Java, Spring Boot, Hibernate e Maven.
+  <p>Sou Engenheiro de Software, com atuação principal no desenvolvimento back-end, focado na criação de soluções bem estruturadas, utilizando Java, Spring Boot, Spring Data, Hibernate e Maven.
 
-Possuo experiência com bancos de dados relacionais, como PostgreSQL, MySQL e H2, além de bancos de dados não relacionais, como MongoDB. Também tenho conhecimentos em Power BI para análise e visualização de dados, contribuindo para a tomada de decisões por meio de informações claras e bem estruturadas.
+Possuo habilidades com bancos de dados relacionais, como PostgreSQL, MySQL e H2, além de habilidades com bancos de dados não relacionais, como MongoDB. Também possuo conhecimentos em Power BI para análise e visualização de dados, apoiando a tomada de decisão por meio de informações claras e bem organizadas.
 
 Embora meu foco seja back-end, também possuo conhecimento em desenvolvimento front-end, utilizando HTML5, CSS, JavaScript e React, o que me permite compreender o fluxo completo das aplicações.
 
 Tenho familiaridade com o Pacote Office, Git e GitHub para versionamento e colaboração em projetos, além de domínio do ambiente Windows. 
+
 </p>
 </div>
 
