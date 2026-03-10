@@ -4,7 +4,7 @@
   <a href="https://beacons.ai/MatheusCaposse"></a>
   <p>Sou Engenheiro de Software, com atuação principal no desenvolvimento back-end, focado na criação de soluções bem estruturadas e escaláveis. Trabalho principalmente com Java, utilizando Spring Boot, Spring Data, Hibernate e Maven para o desenvolvimento de APIs e aplicações robustas.
 
-Possuo experiência com bancos de dados relacionais, como PostgreSQL, MySQL e H2, além de conhecimentos em bancos de dados não relacionais, como MongoDB. Também utilizo Power BI para análise e visualização de dados, transformando informações em insights que apoiam a tomada de decisão.
+Possuo experiência com bancos de dados relacionais, como PostgreSQL, MySQL e Oracle Database, além de conhecimentos em bancos de dados não relacionais, como MongoDB. Também utilizo Power BI para análise e visualização de dados, transformando informações em insights que apoiam a tomada de decisão.
 
 Tenho conhecimento em Docker para containerização de aplicações e em AWS, utilizando serviços voltados para infraestrutura e escalabilidade em ambientes de nuvem.
 
@@ -36,9 +36,11 @@ Ao longo da minha trajetória, venho desenvolvendo projetos práticos voltados p
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="" height="40" width="40" src="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt195429451b14a562/6915aee91baa6d1f5f7be942/Banner_IMG_(3).png?width=1188&quality=80&format=auto&cache=true&immutable=true&cache-control=max-age%3D31536000">
-  <img align="center" alt="" height="40" width="40" src="https://www.pngfind.com/pngs/m/255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png">
+  
+  <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
