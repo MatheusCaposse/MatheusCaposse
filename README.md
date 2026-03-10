@@ -4,7 +4,7 @@
   <a href="https://beacons.ai/MatheusCaposse"></a>
   <p>Sou Engenheiro de Software, com atuação principal no desenvolvimento back-end, focado na criação de soluções bem estruturadas e escaláveis. Trabalho principalmente com Java, utilizando Spring Boot, Spring Data, Hibernate e Maven para o desenvolvimento de APIs e aplicações robustas.
 
-Possuo experiência com bancos de dados relacionais, como PostgreSQL, MySQL e Oracle Database, além de conhecimentos em bancos de dados não relacionais, como MongoDB. Também utilizo Power BI para análise e visualização de dados, transformando informações em insights que apoiam a tomada de decisão.
+Possuo experiência com bancos de dados relacionais, como PostgreSQL, MySQL e Oracle DB, além de conhecimentos em bancos de dados não relacionais, como MongoDB. Também utilizo Power BI para análise e visualização de dados, transformando informações em insights que apoiam a tomada de decisão.
 
 Tenho conhecimento em Docker para containerização de aplicações e em AWS, utilizando serviços voltados para infraestrutura e escalabilidade em ambientes de nuvem.
 
