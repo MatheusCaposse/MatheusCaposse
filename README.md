@@ -2,17 +2,17 @@
 
 <div>
   <a href="https://beacons.ai/MatheusCaposse"></a>
-  <p>Sou Engenheiro de Software, com atuação principal no desenvolvimento back-end, focado na criação de soluções bem estruturadas e escaláveis. Trabalho principalmente com Java, utilizando Spring Boot, Spring Data, Hibernate e Maven para o desenvolvimento de APIs e aplicações robustas.
+  <p>Sou Engenheiro de Software com foco principal no desenvolvimento back-end, atuando na criação de APIs, sistemas e soluções escaláveis utilizando Java e o ecossistema Spring, incluindo Spring Boot, Spring Data e Hibernate. Tenho experiência no desenvolvimento de aplicações robustas, seguindo boas práticas de arquitetura, organização de código e manutenção de software.
 
-Possuo experiência com bancos de dados relacionais, como PostgreSQL, MySQL e Oracle DB, além de conhecimentos em bancos de dados não relacionais, como MongoDB. Também utilizo Power BI para análise e visualização de dados, transformando informações em insights que apoiam a tomada de decisão.
+Possuo conhecimento em bancos de dados relacionais, como PostgreSQL, MySQL e Oracle DB, além de experiência com bancos não relacionais, como MongoDB. Também utilizo Power BI para análise e visualização de dados, transformando informações em insights estratégicos para apoio à tomada de decisão.
 
-Tenho conhecimento em Docker para containerização de aplicações e em AWS, utilizando serviços voltados para infraestrutura e escalabilidade em ambientes de nuvem.
+Tenho experiência com Docker para containerização de aplicações e conhecimentos em AWS, utilizando serviços voltados para infraestrutura, deploy e escalabilidade em ambientes cloud.
 
-Embora meu foco seja back-end, também possuo conhecimento em desenvolvimento front-end, utilizando HTML5, CSS, JavaScript e React, o que me permite compreender o fluxo completo das aplicações, desde a interface até a lógica de negócio.
+Além do back-end, possuo conhecimentos em desenvolvimento front-end utilizando HTML5, CSS, JavaScript e React, o que me permite compreender o fluxo completo das aplicações e contribuir tanto na lógica de negócio quanto na interface do usuário.
 
-Além disso, tenho familiaridade com Git e GitHub para versionamento e colaboração em projetos, Pacote Office e domínio do ambiente Windows.
+Também tenho familiaridade com Git e GitHub para versionamento e colaboração em equipe, além de experiência com metodologias de desenvolvimento e construção de projetos práticos voltados para soluções reais.
 
-Ao longo da minha trajetória, venho desenvolvendo projetos práticos voltados para soluções reais, aplicando boas práticas de desenvolvimento, organização de código e arquitetura de software, sempre buscando criar sistemas eficientes, bem estruturados e de fácil manutenção. 
+Atualmente, sigo aprofundando meus conhecimentos em arquitetura de software, microsserviços, mensageria e tecnologias voltadas para aplicações modernas e escaláveis, buscando evoluir continuamente como desenvolvedor e criar sistemas cada vez mais eficientes e bem estruturados.
 
 </p>
 </div>
