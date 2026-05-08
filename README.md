@@ -30,21 +30,20 @@ Ao longo da minha trajetória, venho desenvolvendo projetos práticos voltados p
 
  ## Tecnologias 💻
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="" height="40" width="40" src="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt195429451b14a562/6915aee91baa6d1f5f7be942/Banner_IMG_(3).png?width=1188&quality=80&format=auto&cache=true&immutable=true&cache-control=max-age%3D31536000">
-  
-  <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-</div>
+<p align="left">
+  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;
+  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">&nbsp;
+  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">&nbsp;
+  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;
+  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;
+  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">&nbsp;
+  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;
+  <img height="33" src="https://skillicons.dev/icons?i=aws">&nbsp;
+  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp;
+  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
+  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
+  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</p>
 
 
 
