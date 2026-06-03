@@ -1,8 +1,9 @@
+<div align="center">
+
 ## Matheus C
 
-<div>
-  <a href="https://beacons.ai/MatheusCaposse"></a>
-  <p>Sou Engenheiro de Software com foco principal no desenvolvimento back-end, atuando na criação de APIs, sistemas e soluções escaláveis utilizando Java e o ecossistema Spring, incluindo Spring Boot, Spring Data e Hibernate. Tenho experiência no desenvolvimento de aplicações robustas, seguindo boas práticas de arquitetura, organização de código e manutenção de software.
+<p>
+Sou Engenheiro de Software com foco principal no desenvolvimento back-end, atuando na criação de APIs, sistemas e soluções escaláveis utilizando Java e o ecossistema Spring, incluindo Spring Boot, Spring Data e Hibernate. Tenho experiência no desenvolvimento de aplicações robustas, seguindo boas práticas de arquitetura, organização de código e manutenção de software.
 
 Possuo conhecimento em bancos de dados relacionais, como PostgreSQL, MySQL e Oracle DB, além de experiência com bancos não relacionais, como MongoDB. Também utilizo Power BI para análise e visualização de dados, transformando informações em insights estratégicos para apoio à tomada de decisão.
 
@@ -13,41 +14,80 @@ Além do back-end, possuo conhecimentos em desenvolvimento front-end utilizando 
 Também tenho familiaridade com Git e GitHub para versionamento e colaboração em equipe, além de experiência com metodologias de desenvolvimento e construção de projetos práticos voltados para soluções reais.
 
 Atualmente, sigo aprofundando meus conhecimentos em arquitetura de software, microsserviços, mensageria e tecnologias voltadas para aplicações modernas e escaláveis, buscando evoluir continuamente como desenvolvedor e criar sistemas cada vez mais eficientes e bem estruturados.
-
 </p>
-</div>
 
 <br>
 
-## Redes Sociais 📱
-<div> 
-  <a href="https://www.linkedin.com/in/matheus-machado-caposse-14ab94333" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
+## 📱 Redes Sociais
+
+<a href="https://www.linkedin.com/in/matheus-machado-caposse-14ab94333" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Caposse-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
+
+
+## 🚀 Technologies & Skills
 
 <br>
 
- ## Tecnologias 💻
+### 💻 Programming Languages & Technologies
 
-<p align="left">
-  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;
-  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">&nbsp;
-  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">&nbsp;
-  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;
-  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;
-  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">&nbsp;
-  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;
-  <img height="33" src="https://skillicons.dev/icons?i=aws">&nbsp;
-  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp;
-  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
-  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
-  <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</p>
-
-
-
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" title="Java" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=maven" height="45" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
   
- 
+</p>
+
+<br>
+
+### 🌱 Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" title="React" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+</p>
+
+<br>
+
+### ☁️ Cloud, DevOps & Messaging
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS" title="AWS" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" title="Docker" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka" height="45" alt="Docker" title="Docker" />&nbsp;&nbsp;
+</p>
+
+<br>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="45" alt="Oracle DB" title="Oracle DB" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" title="MongoDB" />
+</p>
+
+<br>
+
+### 🛠️ Tools & Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" title="VS Code" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" height="45" alt="IntelliJ IDEA" title="IntelliJ IDEA" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" title="Linux" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=windows" height="45" alt="Windows" title="Windows" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Windows" title="Windows" />&nbsp;&nbsp;
+</p>
+
+<br>
 
 
+</div>
